@@ -1,4 +1,4 @@
 # world_news
 
-Flutter app... \n
+Flutter app... 
 Used tech. >> Provider - MVVM - dio - cached_network_image
